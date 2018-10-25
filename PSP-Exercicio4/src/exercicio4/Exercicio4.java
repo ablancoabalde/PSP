@@ -1,0 +1,17 @@
+package exercicio4;
+
+public class Exercicio4 {
+
+    public static void main(String[] args) {
+
+        Pares h = new Pares();
+        Impares h1 = new Impares();
+        Valores h2= new Valores();
+        
+        h.start();
+        h1.start();
+        h2.start();
+
+    }
+
+}
